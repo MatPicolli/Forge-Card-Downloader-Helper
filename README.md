@@ -39,6 +39,10 @@ In the **Settings** tab:
    ```
    C:\Users\YourUser\AppData\Roaming\Forge\res\editions
    ```
+   or
+   ```
+   InstalationFolder\Forge\res\editions
+   ```
    If found, the app parses these files for accurate set code mappings.
 
 3. **Download threads** — 1 to 16 concurrent image downloads.
